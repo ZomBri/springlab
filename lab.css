@@ -1,0 +1,113 @@
+BODY
+{ 
+	background-color: #E9E4EE;
+	background-image: url('https://8ef131c52297ccf7416eb363dfd802a61e15c206.googledrive.com/host/0BwCBzxY1t0oVcENtRTZCY2N0Vm8/skullandbones.png');
+	background-size: 30px;
+	background-repeat: repeat;
+}
+
+.clear {
+	clear:both;
+}
+
+#header{
+	background-color:#B3A4A4;
+	margin-left:30px;
+	margin-right:30px;
+	margin-bottom:20px;
+	opacity:.95;
+}
+
+#nav
+{
+	background-color:#B3A4A4;
+	padding-top:1px;
+	padding-bottom:1px;
+	opacity:.9;
+	margin-left:30px;
+	margin-right:30px;
+
+
+}
+
+#nav li 
+{	display: inline-block;
+	text-align:center;
+	font: 22px verdana, sans-serif;
+	padding-left: 20px;
+	padding-right:20px;	
+}
+
+#nav a:link{
+	color:#5A134B;}
+#nav a:hover
+	{color: #B3A4A4;}
+#nav a:visited{
+	color:#5A134B;}
+
+#main
+{
+	float: left;
+	width: 58%;
+	padding: 10px;
+	margin-top:50px;
+	margin-left:30px;
+	padding-left:20px;
+	list-style-type: none;
+	background-color:#5A134B;
+	margin-bottom:200px;
+	padding-bottom:20px;
+	color:#E9E4EE;
+
+}
+
+#main p, li{
+	font-family: verdana;
+	font-size: 15pt;
+	color:#E9E4EE;
+
+}
+
+#sidebar
+{
+	float: right;
+	width: 30%;
+	padding: 10px;
+	margin:30px;
+	margin-top:50px;
+	background-color:#5A134B;
+	color:#E9E4EE;
+
+}
+
+#sidebar LI
+{
+	color:#E9E4EE;
+	display: list-item;
+	position: relative;
+	font-family: georgia, sans-serif;
+	font-weight:none; 
+	font-size: 22px;
+	list-style-type: none;
+}
+
+h1, h2
+{
+	color:#E9E4EE;
+	font-family:georgia;
+	text-indent:15px;
+}
+
+
+A:link
+	{	
+	color:#E9E4EE;
+	margin: 8px;
+	text-decoration: none;}
+a:visited 
+	{color:#B3A4A4;
+ }
+A:hover
+	{color: #B3A4A4;}
+a:active
+	{color:#E9E4EE;}
